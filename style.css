@@ -63,7 +63,7 @@ body{
 #home::before{
     content: "";
     position: absolute;
-    background: url('../Kirkett/Backgorund-1.jpg') no-repeat repeat center center/cover;
+    background: url('../Kirkett/Home Backgorund-1.jpg') no-repeat repeat center center/cover;
     height: 100%;
     width: 100%;
     opacity: 0.7;
