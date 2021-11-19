@@ -1,0 +1,60 @@
+#navbar{
+    height: 67px;
+}
+#navbar ul{
+    padding: 0px;
+}
+#navbar ul li a{
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: bolder;
+    padding: 14px 15px;
+}
+#logo{
+    margin: 0px 0px;
+}
+#logo img{
+    height: 56px;
+    width: 80px;
+}
+#home{
+    margin-bottom: 75px;
+ }
+.livescore{
+    display: flex;
+    flex-direction: column;
+}
+.livematches{
+    margin: 4px;
+    padding: 15px;
+}
+.livematches div{
+    margin:3px;
+    font-size: 10px;
+}
+#Live-Score::before{
+    height:74%;
+}
+#latestupdates{
+    margin-top: 10px;
+}
+#latestupdates ul li{ 
+    font-size: 10px;
+}
+#stats{
+    margin-top: 195px;
+}
+.container-1{
+    display: grid;
+    grid-template-columns: repeat(4, 1.3fr);
+}
+.box{
+    padding: 13px; 
+}
+.container-1 input{
+    padding: 0px;
+    width: 100%;
+}
+.pro{
+    font-size: 17px;
+}
